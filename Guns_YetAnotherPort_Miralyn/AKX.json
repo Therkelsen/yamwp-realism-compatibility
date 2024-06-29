@@ -1,0 +1,25 @@
+{
+    "nothing_here_yet": {
+        "ItemID": "nothing_here_yet",
+        "Name": "maybe_ill_add_it_later",
+        "ModType": "",
+        "VerticalRecoil": 0,
+        "HorizontalRecoil": 0,
+        "Dispersion": 0,
+        "CameraRecoil": 0,
+        "AimSpeed": 0,
+        "Ergonomics": 0,
+        "Accuracy": 0,
+        "HasShoulderContact": true,
+        "BlocksFolding": false,
+        "AutoROF": 0,
+        "SemiROF": 0,
+        "ModMalfunctionChance": 0,
+        "StockAllowADS": false,
+        "ConflictingItems": [],
+        "Weight": 0,
+        "DurabilityBurnModificator": 0,
+        "LoyaltyLevel": 0,
+        "Price": 0
+    }
+}
