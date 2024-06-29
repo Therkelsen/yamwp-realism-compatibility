@@ -25,7 +25,7 @@ $filesToMove = @(
     'Guns_YetAnotherPort_Miralyn\AKX.json',
     'Guns_YetAnotherPort_Miralyn\AWM.json',
     'Guns_YetAnotherPort_Miralyn\HK416.json',
-    'Guns_YetAnotherPort_Miralyn\M16AX.json',
+    'Guns_YetAnotherPort_Miralyn\AR-15.json',
     'Guns_YetAnotherPort_Miralyn\MP5K.json',
     'Guns_YetAnotherPort_Miralyn\SVD.json'
 )
