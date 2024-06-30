@@ -22,7 +22,7 @@ New-Item -ItemType Directory -Path "$baseDir\$innerDir" -Force
 
 # Define the list of files to move
 $filesToMove = @(
-    'Guns_YetAnotherPort_Miralyn\AKX.json',
+    'Guns_YetAnotherPort_Miralyn\AK.json',
     'Guns_YetAnotherPort_Miralyn\AWM.json',
     'Guns_YetAnotherPort_Miralyn\HK416.json',
     'Guns_YetAnotherPort_Miralyn\AR-15.json',
