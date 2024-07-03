@@ -48,7 +48,8 @@
             "x": 0,
             "y": -0.3,
             "z": 0
-        }
+        },
+        "MasteryCategory": "SV98"
     },
     "MIRA_muzzle_awm_ai_mb_86x70": {
         "ItemID": "MIRA_muzzle_awm_ai_mb_86x70",

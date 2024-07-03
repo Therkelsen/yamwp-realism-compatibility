@@ -43,7 +43,8 @@
         "BaseChamberCheckSpeed": 1.7,
         "BaseFixSpeed": 1.7,
         "OffsetRotation": 0.01,
-        "RecoilIntensity": 0.23
+        "RecoilIntensity": 0.23,
+        "MasteryCategory": "AKM"
     },
     "MIRA_muzzle_svd_izhmash_svd_std_762x54": {
         "ItemID": "MIRA_muzzle_svd_izhmash_svd_std_762x54",
