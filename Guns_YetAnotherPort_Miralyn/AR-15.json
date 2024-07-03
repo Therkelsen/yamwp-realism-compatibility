@@ -43,7 +43,8 @@
         "BaseChamberCheckSpeed": 1.5,
         "BaseFixSpeed": 1.2,
         "OffsetRotation": 0.008,
-        "RecoilIntensity": 0.165
+        "RecoilIntensity": 0.165,
+        "MasteryCategory": "M4"
     },
     "MIRA_sight_rear_ar15_colt_m16a1_rear_sight_std": {
         "ItemID": "MIRA_sight_rear_ar15_colt_m16a1_rear_sight_std",

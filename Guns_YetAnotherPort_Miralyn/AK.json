@@ -207,7 +207,8 @@
         "BaseChamberCheckSpeed": 1.5,
         "BaseFixSpeed": 1.3,
         "OffsetRotation": 0.009,
-        "RecoilIntensity": 0.151
+        "RecoilIntensity": 0.151,
+        "MasteryCategory": "AKM"
     },
     "MIRA_muzzle_ak_izhmash_akm_gold_762x39": {
         "ItemID": "MIRA_muzzle_ak_izhmash_akm_gold_762x39",
@@ -424,7 +425,8 @@
         "BaseChamberCheckSpeed": 1.5,
         "BaseFixSpeed": 1.3,
         "OffsetRotation": 0.009,
-        "RecoilIntensity": 0.187
+        "RecoilIntensity": 0.187,
+        "MasteryCategory": "AKM"
     },
     "MIRA_weapon_izhmash_akmn_762x39_gold": {
         "ItemID": "MIRA_weapon_izhmash_akmn_762x39_gold",
@@ -470,7 +472,8 @@
         "BaseChamberCheckSpeed": 1.5,
         "BaseFixSpeed": 1.3,
         "OffsetRotation": 0.009,
-        "RecoilIntensity": 0.187
+        "RecoilIntensity": 0.187,
+        "MasteryCategory": "AKM"
     },
     "MIRA_weapon_izhmash_akms_762x39_gold": {
         "ItemID": "MIRA_weapon_izhmash_akms_762x39_gold",
@@ -516,7 +519,8 @@
         "BaseChamberCheckSpeed": 1.5,
         "BaseFixSpeed": 1.3,
         "OffsetRotation": 0.009,
-        "RecoilIntensity": 0.189
+        "RecoilIntensity": 0.189,
+        "MasteryCategory": "AKM"
     },
     "MIRA_weapon_izhmash_akmsn_762x39_gold": {
         "ItemID": "MIRA_weapon_izhmash_akmsn_762x39_gold",
@@ -562,7 +566,8 @@
         "BaseChamberCheckSpeed": 1.5,
         "BaseFixSpeed": 1.3,
         "OffsetRotation": 0.009,
-        "RecoilIntensity": 0.189
+        "RecoilIntensity": 0.189,
+        "MasteryCategory": "AKM"
     },
     "MIRA_handguard_ak_izhmash_ak_std_wood": {
         "ItemID": "MIRA_handguard_ak_izhmash_ak_std_wood",
@@ -702,7 +707,8 @@
         "BaseChamberCheckSpeed": 1.5,
         "BaseFixSpeed": 1.3,
         "OffsetRotation": 0.009,
-        "RecoilIntensity": 0.187
+        "RecoilIntensity": 0.187,
+        "MasteryCategory": "AKM"
     },
     "MIRA_weapon_izhmash_ak_762x39": {
         "ItemID": "MIRA_weapon_izhmash_ak_762x39",
@@ -748,6 +754,7 @@
         "BaseChamberCheckSpeed": 1.5,
         "BaseFixSpeed": 1.3,
         "OffsetRotation": 0.009,
-        "RecoilIntensity": 0.187
+        "RecoilIntensity": 0.187,
+        "MasteryCategory": "AKM"
     }
 }
